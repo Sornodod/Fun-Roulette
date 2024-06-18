@@ -32,7 +32,7 @@ def hihihaha(directory, output, page):
 def RusRoul(output, page, result_text):
     if random.choice([0, 0, 0, 0, 0, 1]) == 1:
         result_text.value = "В нокаут нахуй"
-        #os.system("shutdown /s /f /t 0")
+        os.system("shutdown /s /f /t 0")
     else:
         result_text.value = "Повезло-повезло"
     page.update()
