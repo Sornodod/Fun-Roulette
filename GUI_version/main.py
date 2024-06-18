@@ -76,7 +76,7 @@ def main(page: ft.Page):
         output = ft.Column()
         difficulty_dropdown = ft.Dropdown(
             options=[
-                ft.TextField(label="Выбор сложности"),
+                #ft.TextField(label="Выбор сложности"),
                 ft.dropdown.Option(key="hard", text="По харду"),
                 ft.dropdown.Option(key="easy", text="Со смазкой")
             ],
