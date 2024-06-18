@@ -3,7 +3,6 @@ import random
 import shutil
 import flet as ft
 
-# Оригинальные функции из программы RusRoul с улучшениями
 def hihihaha(directory, output, page):
     if not os.path.exists(directory):
         page.add(ft.Text("Ты мне наврал. Нет такой папки."))
@@ -40,7 +39,6 @@ def RusRoul(output, page, result_text):
 
 
 
-# Функции для интерфейса Flet
 def main(page: ft.Page):
     page.title = "ЦИФРОВАЯ РУССКАЯ РУЛЕТКА"
     page.theme_mode = 'dark'
