@@ -7,7 +7,7 @@
 
 
 ЛЕНЬ ЧИТАТЬ?
-КНОПКА СКАЧАТЬ - [![СКАЧАТЬ](https://img.shields.io/badge/%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC-Download-blue)](https://github.com/Sornodod/Fun-Roulette/archive/refs/heads/main.zip)
+КНОПКА СКАЧАТЬ -   [![СКАЧАТЬ](https://img.shields.io/badge/%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC-Download-blue)](https://github.com/Sornodod/Fun-Roulette/archive/refs/heads/main.zip)
 
 Есть версия как в терминале, так и с GUI.
 Версия с GUI в соотвествующей папке.
