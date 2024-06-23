@@ -4,6 +4,11 @@
 ![image](https://github.com/Sornodod/Fun-Roulette/assets/65455639/20810f6e-9ce3-4fd7-86f6-a20bc0ccf085)
 
 
+
+
+ЛЕНЬ ЧИТАТЬ?
+КНОПКА СКАЧАТЬ - [![СКАЧАТЬ](https://img.shields.io/badge/%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC-Download-blue)](https://github.com/Sornodod/Fun-Roulette/archive/refs/heads/main.zip)
+
 Есть версия как в терминале, так и с GUI.
 Версия с GUI в соотвествующей папке.
 Версия с терминалом аналогично.
