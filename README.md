@@ -1,4 +1,4 @@
-Весёлая рулетка для всех ПК на базе Windows.
+# Весёлая рулетка для всех ПК на базе Windows.
 
 
 ![image](https://github.com/Sornodod/Fun-Roulette/assets/65455639/20810f6e-9ce3-4fd7-86f6-a20bc0ccf085)
